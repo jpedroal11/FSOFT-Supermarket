@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="StoreApp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StoreApp">
+				<Option output="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/StoreApp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/mock"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/controllers"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/controllers"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/exceptions"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/exceptions"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/model"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/model"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/views"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/views"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 StoreApp"/>
+					<CompileFile command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StoreApp/fast">
+				<Option output="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/StoreApp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/mock"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/controllers"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/controllers"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/exceptions"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/exceptions"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/model"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/model"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/views"/>
+					<Add directory="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/views"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 StoreApp/fast"/>
+					<CompileFile command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JetBrains/CLion 2021.3.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/controllers/Controller.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/exceptions/DataConsistencyException.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/exceptions/DuplicatedDataException.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/exceptions/InvalidDataException.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/model/Estabelecimento.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/model/EstabelecimentoContainer.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/model/Gestao.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/model/GestaoContainer.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/model/Lojas.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/model/Produto.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/model/ProdutoContainer.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/views/EstabelecimentoView.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/views/GestaoView.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/views/Preco.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/views/ProdutoView.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/views/Utils.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/headers/views/View.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/main.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/mock/MockData.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/mock/MockData.h">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/controllers/Controller.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/exceptions/DataConsistencyException.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/exceptions/DuplicatedDataException.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/exceptions/InvalidDataException.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/model/Estabelecimento.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/model/EstabelecimentoContainer.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/model/Gestao.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/model/GestaoContainer.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/model/Lojas.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/model/Produto.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/model/ProdutoContainer.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/views/EstabelecimentoView.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/views/GestaoView.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/views/Preco.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/views/ProdutoView.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/views/Utils.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/sources/views/View.cpp">
+			<Option target="StoreApp"/>
+		</Unit>
+		<Unit filename="C:/Users/josep/Desktop/ISEP/1º ano/2º semestre/FSOFT/fsoft2022_1A_2/StoreApp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

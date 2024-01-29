@@ -1,0 +1,3 @@
+C:/Users/gsnip/fsoft2022_1A_2/StoreApp/cmake-build-debug/CMakeFiles/StoreApp.dir
+C:/Users/gsnip/fsoft2022_1A_2/StoreApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gsnip/fsoft2022_1A_2/StoreApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
